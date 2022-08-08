@@ -20,5 +20,9 @@ Hi I would like to see is these changes will recorde or not?
 Do some changes in Github
 
 
+<<<<<<< HEAD
 
 Hi I am in in mac PC
+=======
+I am in Github :D
+>>>>>>> 946c4ed9e2725266c9bda617966eee54d088ba09
