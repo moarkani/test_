@@ -1,0 +1,10 @@
+---
+title: "T_Script_Test2"
+author: "M.Arkani"
+date: '2022-08-08'
+output: html_document
+---
+```{r}
+library(cbinom)
+```
+
